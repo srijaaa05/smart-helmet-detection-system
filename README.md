@@ -49,3 +49,5 @@ The system detects helmet usage in real time and highlights detected objects wit
 ## Author
 
 Srija Paul Chowdhury
+Rushikesh Jagtap
+
